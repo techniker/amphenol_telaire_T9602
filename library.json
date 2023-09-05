@@ -1,0 +1,26 @@
+{
+  "name": "Amphenol_Telaire_T9602",
+  "version": "0.1.0",
+  "description": "A library to interface with the Amphenol Telaire T9602 i2c temp/humidity sensor",
+  "keywords": "T9602, Amphenol, Telaire, Sensor, i2c, temp, humidity",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/techniker/amphenol_telaire_T9602.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Bjoern Heller",
+      "email": "tec(att)sixtopia.net",
+      "url": "https://www.sixtopia.net"
+    }
+  ],
+  "license": "GPL-3.0-or-later",
+  "homepage": "https://www.sixtopia.net/",
+  "dependencies": {
+    "ownername/print": "~1.0.0"
+  },
+  "frameworks": "*",
+  "platforms": "*"
+}
